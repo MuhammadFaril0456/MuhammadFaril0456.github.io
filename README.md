@@ -1,7 +1,7 @@
-# MuhammadFaril0456.github.io
-My Portfolio Website
-<!DOCTYPE html>
-<html lang="en">
+
+
+
+
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
@@ -140,21 +140,5 @@ My Portfolio Website
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
   </body>
 </html>a {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-}
-h1 {
-  font-family: "Times New Roman", Times, serif;
-}
-h2 {
-  font-family: Arial, Helvetica, sans-serif;
-}
-.jumbotron {
-  padding-top: 5rem;
-  background-color: #5f9ea0;
-}
-#projects {
-  background-color: #5f9ea0;
-}
-section {
-  padding-top: 5rem;
-}
+  
+       
