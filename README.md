@@ -1,7 +1,5 @@
 
-
-
-
+<html lang="en">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
@@ -132,13 +130,11 @@
   <!-- akhir contact -->
   <!-- footer -->
   <footer class="bg-primary text-white text-center pb-5">
-    <p>Create with<i class="bi bi-heart-fill text-danger"></i>  by : <a href="https://www.instagram.com/muhammadfaril_45/" class="text-white fw-bold">Muhammadfaril</a>
+    <p>Create with<i class="bi bi-heart-fill text-success "></i>  by :  <a href="https://www.instagram.com/muhammadfaril_45/" class="text-white fw-bold">Muhammadfaril</a>
 
     </p>
   </footer>
   <!-- akhir footer -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
   </body>
-</html>a {
-  
-       
+</html>
